@@ -55,3 +55,7 @@ def calculator():
             print(f"{num1} // {num2} = {floor_division(num1, num2)}")
     else:
         print("Entrée invalide")
+        
+        
+if __name__ == "__main__":
+    calculator()
